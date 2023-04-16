@@ -1,0 +1,200 @@
+
+.inline-elements{
+    display: inline-block;
+}
+.header-text{
+    
+    text-align: left;
+    text-decoration: none;
+    font: normal normal 400 30px/50px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+
+.homepage{
+    width: 100%;
+}
+.section-green{
+    background-color: #617143;
+    height: auto;
+}
+.section-light{
+    background-color: #DF7857;
+    /* background-color: #E7AB9A; */
+    /* background-color: #5D9C59; */
+}
+
+nav ul{
+    float: right;
+    margin-right: 20px;
+}nav ul li{
+   display: inline-block;
+   line-height: 80px;
+   
+   margin: 17px 15px;
+}
+.grow_planet{
+    display: inline-block;
+    text-align: left;
+    text-decoration: none;
+    font: normal normal 500 40px/53px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-top: 22px;
+}
+.brand-image{
+    margin: 0px 5px 15px 20px;
+    padding: 10px;
+}
+.welcome-text{
+    margin-left: 10%;
+    display: inline-block;
+}
+.plant-image{
+    display: inline-block;
+    position: relative;
+    margin-top: 50px;
+    width:30%;
+    left:20%;
+    margin-bottom: 50px;
+}
+.book-image{
+    display: inline-block;
+    position: relative;
+    width: 30%;
+    left:15%;
+}
+.first-section-text-div{
+    position: relative;
+    left: 15%;
+    top: 5rem;
+    
+}
+.first-section-text{
+    
+    font: normal normal 800 70px/60px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    
+    left: 10%;
+}
+.second-section-text-div{
+    position: relative;
+    left: 15%;
+    top: 8rem;
+    margin-left: 9rem;
+    
+}
+.second-section-text{
+    
+    font: normal normal 800 70px/60px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+
+    
+    left: 10%;
+}
+
+.image-footer{
+    position: relative;
+    width: 3%;
+    margin: 20px 5px 20px 5px;
+   
+}
+    
+body {
+    background-image: url('../images/db.jpg');
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container-me {
+    max-width: 800px;
+    margin: 8rem auto auto auto;
+    padding: 40px;
+    background-color: #fff;
+    opacity: 0.9 ;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    align-items: center;
+}
+
+
+.upload-text {
+    text-align: center;
+    margin-bottom: 30px;
+    opacity: 1 ;
+    
+}
+
+input[type="file"] {
+    display: none;
+}
+
+label {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    margin-left: 18rem;
+    max-width: 200px;
+    padding: 12px 24px;
+    background-color: #4CAF50;
+    color: #fff;
+    
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    opacity: 1 ;
+}
+
+label:hover {
+    background-color: #3e8e41;
+}
+
+.uploaded-image {
+    margin-top: 20px;
+    display: none;
+}
+
+.uploaded-image img {
+    max-width: 100%;
+    height: auto;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.fade-in {
+    animation-name: fade-in;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fade-in {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+#submitButton{
+    display: none;
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+
+    

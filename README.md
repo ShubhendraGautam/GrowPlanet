@@ -33,6 +33,7 @@ information about subsidies announced by the government.
 With the use of PlantId Api, we will provide info to the farmer on what disease has
 infected his crop and what measures to take based on the photos of the plant he
 provides to us.
+
 Technology Used
 Front-End: EJS, CSS, HTML, JS
 Back-End: NodeJs, ExpressJs

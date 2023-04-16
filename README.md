@@ -1,9 +1,12 @@
 # GrowPlanet
 Project for Google Cloud India Hackathon in Collaboration with GFG
+
 Google Cloud India Hackathon in Collaboration with GFG
+
 Grow Planet
+
 By Team Aogiri Tree IIIT Allahabad
-Grow Planet
+
 Our vision is to help farmers with every information required to grow crops in a single place to
 assist growth of crops. Though we are primarily focusing on India now, we have a greater vision
 to help farmers all over the world at a later stage. That’s where Grow planet kicked in.

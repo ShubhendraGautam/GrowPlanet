@@ -43,9 +43,10 @@ With the use of PlantId Api, we will provide info to the farmer on what disease 
 infected his crop and what measures to take based on the photos of the plant he
 provides to us.
 
-Technology Used
-Front-End: EJS, CSS, HTML, JS
-Back-End: NodeJs, ExpressJs
-Database: MySQL
-API: PlantId, NewsAPI
-ML Model: SVM
+Technology Used:
+
+1. Front-End: EJS, CSS, HTML, JS
+2. Back-End: NodeJs, ExpressJs
+3. Database: MySQL
+4. API: PlantId, NewsAPI
+5. ML Model: SVM

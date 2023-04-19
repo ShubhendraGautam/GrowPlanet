@@ -30,7 +30,7 @@ Farmers with the use of latitudinal and longitudinal information will use that d
 nitrogen, phosphorus, potassium, humidity, rainfall, ph, temperature of that area to get the best
 possible crop for that location.
 
-3. CropMandi:
+3. SellHere:
 Farmer inputs his location and crop to sell in our mandi and he gets the most economic
 mandi to sell his crop at a profitable price.
 

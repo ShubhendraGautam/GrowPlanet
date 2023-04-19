@@ -1,0 +1,256 @@
+
+.inline-elements{
+    display: inline-block;
+}
+.header-text{
+    
+    text-align: left;
+    text-decoration: none;
+    font: normal normal 400 30px/50px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+
+.homepage{
+    width: 100%;
+}
+.section-green{
+    background-color: #617143;
+    height: auto;
+}
+.section-light{
+    background-color: #DF7857;
+    /* background-color: #E7AB9A; */
+    /* background-color: #5D9C59; */
+}
+
+nav ul{
+    float: right;
+    margin-right: 20px;
+}nav ul li{
+   display: inline-block;
+   line-height: 80px;
+   
+   margin: 17px 15px;
+}
+.grow_planet{
+    display: inline-block;
+    text-align: left;
+    text-decoration: none;
+    font: normal normal 500 40px/53px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-top: 22px;
+}
+.brand-image{
+    margin: 0px 5px 15px 20px;
+    padding: 10px;
+}
+.welcome-text{
+    margin-left: 10%;
+    display: inline-block;
+}
+.plant-image{
+    display: inline-block;
+    position: relative;
+    margin-top: 50px;
+    width:30%;
+    left:20%;
+    margin-bottom: 50px;
+}
+.book-image{
+    display: inline-block;
+    position: relative;
+    width: 30%;
+    left:15%;
+}
+.first-section-text-div{
+    position: relative;
+    left: 15%;
+    top: 5rem;
+    
+}
+.first-section-text{
+    
+    font: normal normal 800 70px/60px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    
+    left: 10%;
+}
+.second-section-text-div{
+    position: relative;
+    left: 15%;
+    top: 8rem;
+    margin-left: 9rem;
+    
+}
+.second-section-text{
+    
+    font: normal normal 800 70px/60px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+
+    
+    left: 10%;
+}
+
+.image-footer{
+    position: relative;
+    width: 3%;
+    margin: 20px 5px 20px 5px;
+   
+}
+    
+    
+
+
+.animated-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-image: url('/images/background.jpg');
+    background-position: center;
+    background-size: cover;
+    
+    
+    
+   
+}
+.search-box {
+    margin: 50px auto;
+    width: 50%;
+    padding: 10px;
+    background-color: #f2f2f2;
+    border-radius: 100px;
+    box-shadow: 0px 0px 5px #ccc;
+    display: flex;
+    align-items: center;
+    border: none;
+}
+.search-box input[type="text"] {
+    flex: 1;
+   
+    
+    border: none;
+    background-color: transparent;
+    font-size: 16px;
+   
+    padding: 5px;
+    outline: none;
+}
+.search-box button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 100px;
+    margin-left: 470px;
+    cursor: pointer;
+}
+.search-box button i {
+    margin-right: 5px;
+}
+
+#sell-brand{
+    color: white;
+    margin-top: 4rem;
+    text-align: center;
+    margin-left: 2.5rem;
+    
+    
+}
+#sell-brand-text{
+    font:  normal normal 700 80px/40px Segoe UI;
+    margin-bottom: 8rem;
+    text-shadow: 3rem;
+    -webkit-text-stroke-width: 0.3px;
+  -webkit-text-stroke-color: #E7B10A;
+  letter-spacing: 1.5rem;
+}
+
+.user-input{
+    background-color: white;
+   
+    padding: 20px;
+    margin: 25px auto 0px auto;
+    max-width: 900px;
+    height: 300px;
+    
+   
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    text-align: justify;
+    line-height: 1.5;
+    overflow: auto;
+    align-items: center;
+    display: table;
+    
+}
+
+.crop-select{
+    width: 100%;
+    border: 1px solid black;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    margin: 10px auto 10px auto;
+    border-radius: 10px;
+    text-align: center;
+    height: 50px;
+    font:  normal normal 300 20px/20px Segoe UI;
+}
+
+.crop-select:hover{
+    
+    transform: scale(1.01,1.01);
+}
+
+.btn-submit{
+    
+    background-color: #007bff;
+    color: white;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    margin: 20px auto 0px 12rem;
+    width: 30%;
+    
+    
+}
+tr{
+    width: 100%;
+}
+th{
+    text-align: left;
+    width: 170px;
+    height: 50px;
+}
+td{
+    text-align: left;
+    width: 170px;
+    height: 50px;
+}
+tr:hover{
+    background-color: #ccc;
+    transform: scale(1.01,1.01);
+}
+table{
+    font: normal normal 300 20px/20px Segoe UI;
+    
+    
+}
+.div-text{
+   color: #007bff;
+   font: normal normal 500 20px/20px Segoe UI;
+    
+}
+.final-price{
+    color: #007bff;
+    font: normal normal 500 20px/20px Segoe UI;
+}
+ 

@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins" , sans-serif;
+}
+.inline-elements{
+    display: inline-block;
+}
+.header-text{
+    
+    text-align: left;
+    text-decoration: none;
+    font: normal normal 400 30px/50px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+body{
+    background-image: url('../images/db.jpg');
+}
+
+
+.homepage{
+    width: 100%;
+}
+.section-green{
+    
+    height: auto;
+}
+.section-light{
+    background-color: #DF7857;
+    /* background-color: #E7AB9A; */
+    /* background-color: #5D9C59; */
+}
+
+nav ul{
+    float: right;
+    margin-right: 20px;
+}nav ul li{
+   display: inline-block;
+   line-height: 80px;
+   
+   margin: 17px 15px;
+}
+.grow_planet{
+    display: inline-block;
+    text-align: left;
+    text-decoration: none;
+    font: normal normal 500 40px/53px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-top: 22px;
+}
+.brand-image{
+    margin: 0px 5px 15px 20px;
+    padding: 10px;
+}
+.welcome-text{
+    margin-left: 10%;
+    display: inline-block;
+}
+.plant-image{
+    display: inline-block;
+    position: relative;
+    margin-top: 50px;
+    width:30%;
+    left:20%;
+    margin-bottom: 50px;
+}
+.book-image{
+    display: inline-block;
+    position: relative;
+    width: 30%;
+    left:15%;
+}
+.first-section-text-div{
+    position: relative;
+    left: 15%;
+    top: 5rem;
+    
+}
+.first-section-text{
+    
+    font: normal normal 800 70px/60px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    
+    left: 10%;
+}
+.second-section-text-div{
+    position: relative;
+    left: 15%;
+    top: 8rem;
+    margin-left: 9rem;
+    
+}
+.second-section-text{
+    
+    font: normal normal 800 70px/60px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+
+    
+    left: 10%;
+}
+
+.image-footer{
+    position: relative;
+    width: 3%;
+    margin: 20px 5px 20px 5px;
+   
+}
+
+.plant-disease-image {
+    background-color: white;
+    opacity: 95%;
+    padding: 20px;
+    margin: 50px 30px auto 70px;
+    max-width: 700px;
+    height: 500px;
+    
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    text-align: justify;
+    line-height: 1.5;
+    overflow: auto;
+    display: inline-block;
+}
+.plant-disease-text {
+    background-color: white;
+    opacity: 95%;
+    padding: 20px;
+    margin: 50px 30px auto 40px;
+    max-width: 800px;
+    height: 500px;
+    position: absolute;
+   
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    text-align: justify;
+    line-height: 1.5;
+    overflow: auto;
+
+    display: inline-block;
+}
+.disease-image{
+    width: 500px;
+    height: 450px;
+}
+

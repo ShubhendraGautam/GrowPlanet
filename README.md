@@ -45,6 +45,11 @@ With the use of PlantId Api, we will provide info to the farmer on what disease 
 infected his crop and what measures to take based on the photos of the plant he
 provides to us.
 
+6. Produce bidding system: A farmer can state their crops and it's quantity available with a base price on it. 
+The buyer (mainly wholesalers) can state his price and place a bid which he thinks is ideal.
+Now, the farmer can choose to sell his crop to someone based on the bids of wholesalers he finds suitable to.
+We have provided contact info of both farmer and buyer if they want to bargain about the prices or want to know more about the quality of produce
+
 Technology Used:
 
 1. Front-End: EJS, CSS, HTML, JS
